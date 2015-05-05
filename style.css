@@ -1,0 +1,5 @@
+body{margin:0 auto;width:1024px;text-align:left;}
+.message{border:1px solid #ff0000;padding:20px;border-radius:20px;margin:20px 0;}
+.panel{border:1px solid #00ff00;padding:20px;border-radius:20px;margin:20px 0;}
+form{width:100%;}
+td{border:1px solid #ccc;padding:5px;}
